@@ -1,0 +1,8 @@
+{
+  "name": " seu carro",
+  "description": "Um site de elite para a melhor concessionária de carros em Angola, focado em proporcionar experiências, não apenas vendas. Design em Preto, Branco e Vermelho com animações de alta performance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
